@@ -3,7 +3,7 @@ A collection of my engineering projects and achievements | Eine Sammlung meiner 
 
 # 🛠 Engineering Projects & Achievements | Technische Projekte & Auszeichnungen
 
-🇬🇧 *English*  
+*English*  
 This repository showcases my most important engineering projects, personal builds, and achievements. It includes work in embedded systems, drones, automation, and robotics. Some of these were built during my university studies, while others were developed as independent learning challenges.
 
 🔧 Technologies: Arduino, ESP32, KiCad, Fusion 360, C++, Python, Betaflight  
@@ -11,7 +11,7 @@ This repository showcases my most important engineering projects, personal build
 
 ---
 
-🇩🇪 *Deutsch*  
+*Deutsch*  
 Dieses Repository präsentiert meine wichtigsten technischen Projekte, Eigenentwicklungen und Auszeichnungen. Es enthält Arbeiten in den Bereichen Embedded Systems, Drohnen, Automatisierung und Robotik. Einige Projekte wurden im Rahmen meines Studiums erstellt, andere entstanden durch eigenständiges Lernen und persönliches Interesse.
 
 🔧 Technologien: Arduino, ESP32, KiCad, Fusion 360, C++, Python, Betaflight  
